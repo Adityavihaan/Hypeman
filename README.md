@@ -2,6 +2,8 @@
 
 **Hypeman** is a minimal terminal tool that shows a random motivational quote and ASCII/digital art every time you open your terminal. It's built for people who live in the CLI and want a little personal boost when they start working.
 
+Note - This app has no means to compete with any similar app that existed when i created this app i just got a idea and made something. That's all
+
 ---
 
 ## Features
